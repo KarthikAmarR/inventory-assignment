@@ -26,3 +26,8 @@ A Spring Boot-based inventory and order management system for the engineering as
 
 ```bash
 ./gradlew bootRun
+
+## How to Test
+
+```bash
+./gradlew test
